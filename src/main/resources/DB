@@ -1,0 +1,4 @@
+DB_URL=jdbc:mysql://localhost:3306/basic
+DB_USER=hofe
+DB_PASSWORD=hofe
+DRIVER=com.mysql.cj.jdbc.Driver
